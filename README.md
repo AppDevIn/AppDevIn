@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on NodeJs
 - 🌱 I’m currently learning MongoDB
 - 👯 I’m looking to collaborate on Android/Flutter
 - 🤔 I’m looking for help with DSA
