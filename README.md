@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Swift
+- 🔭 I’m currently working on Swift
+- 🌱 I’m currently learning CPP
 - 👯 I’m looking to collaborate on Android/Flutter
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about anything
