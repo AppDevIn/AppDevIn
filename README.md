@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN
-- 🌱 I’m currently learning CPP and Swift
+- 🌱 I’m currently learning Docker and Swift
 - 👯 I’m looking to collaborate on Android/Flutter
 - 🤔 I’m looking for help with MERN
 - 💬 Ask me about anything
