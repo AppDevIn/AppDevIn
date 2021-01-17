@@ -20,15 +20,11 @@ Here are a few things I've picked up along my learning journey.
 * 📟 Raspberry PI 
 
 ## 📫 Get in touch
-- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/adnanazmee)
-- Twitter - [@AzmeeAdnan](https://twitter.com/AzmeeAdnan)
-- Reddit - [adnanazmee](https://reddit.com/user/adnanazmee)
-
- or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
+- LinkedIn - [Jeyavishnu](https://www.linkedin.com/in/jeya)
 
 
+ or on [mail](mailto:jeyavishnu22@yahoo.com) .
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
 
 
 
