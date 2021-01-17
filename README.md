@@ -3,6 +3,8 @@
 
 I am a Application Developer. I am passionate about technologies and love to learn new things.
 
+<img src="https://github-readme-stats.vercel.app/api?username=AppDevIn&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 #### 🔭 I’m currently looking for new opportunities .
 
 
@@ -28,4 +30,4 @@ Here are a few things I've picked up along my learning journey.
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=AppDevIn&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
