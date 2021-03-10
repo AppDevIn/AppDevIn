@@ -3,7 +3,7 @@
 
 I am a Application Developer. I am passionate about technologies and love to learn new things.
 
-<img src="https://github-readme-stats.vercel.app/api?username=AppDevIn&&show_icons=true&count_private=true&theme=react">
+<img src="https://github-readme-stats.vercel.app/api?username=AppDevIn&&show_icons=true&count_private=true&theme=react&&hide=commits">
 
 ![Jeya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AppDevIn&theme=highcontrast)
 
