@@ -7,7 +7,7 @@ I am a Application Developer. I am passionate about technologies and love to lea
 
 ##  Wake Time Stats
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AppDevIn)]
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AppDevIn&theme=react)]
 
 #### 🔭 I’m currently looking for new opportunities .
 
