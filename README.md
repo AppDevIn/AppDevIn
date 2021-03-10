@@ -5,9 +5,11 @@ I am a Application Developer. I am passionate about technologies and love to lea
 
 <img src="https://github-readme-stats.vercel.app/api?username=AppDevIn&&show_icons=true&count_private=true&theme=react">
 
+![Jeya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AppDevIn&theme=highcontrast)
+
 ##  Wake Time Stats
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AppDevIn&theme=nord)
+![Jeya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AppDevIn&theme=nord)
 
 #### 🔭 I’m currently looking for new opportunities .
 
