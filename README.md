@@ -19,7 +19,7 @@ Here are a few things I've picked up along my learning journey.
 
 * 🗣 Python | Java | SQL | C# | C++ 
 * 📲 Xcode | Android Studio | Flutter
-* 🖇️ MERN
+* 🖇️ MERN | Angular | React
 * 🛢️ MySQL | SQLite 
 * :octocat: Git | Github
 * 🌐 HTML | CSS
