@@ -1,5 +1,8 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Jeya 👨‍💻
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=AppDevIn&label=Profile%20views&color=0e75b6&style=flat" alt="watching_count" />
+</p>
 
 I am a Application Developer. I am passionate about technologies and love to learn new things.
 <table>
