@@ -15,7 +15,6 @@ I care about clean code, fast feedback loops, and building stuff people actually
 
 - **PneuRelief** — wearable system to prevent diabetic foot ulcers. React Native app + Python ML backend. My main passion project.
 - **SkillMetrics** — AI skill gap analysis and career roadmap platform. Working MVP, 3-person team.
-- **Voltade Presto v2** — production search and recommendation for fashion retail (pgvector, GPT-4o, OpenCLIP).
 
 ## Past Projects
 
