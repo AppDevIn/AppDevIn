@@ -13,8 +13,8 @@ Outside of code I'm into photography, long walks, and figuring out how random sy
 
 ## What I'm Building
 
-- **PneuRelief** — wearable system to help prevent diabetic foot ulcers. React Native app plus a Python ML backend. My main passion project.
-- **SkillMetrics** — AI skill gap analysis and career roadmap tool. Working MVP with a 3-person team.
+- **PneuRelief** - wearable system to help prevent diabetic foot ulcers. React Native app plus a Python ML backend. My main passion project.
+- **SkillMetrics** - AI skill gap analysis and career roadmap tool. Working MVP with a 3-person team.
 - Random Telegram bots, scripts, and tiny tools that solve problems only I have.
 
 ## Past Projects
